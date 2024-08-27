@@ -1,0 +1,82 @@
+1) What is machine learning?
+--> 
+- Basically it allows computers to learn from the data(provided to the model) and make decision(prediction).
+- They use statistical techniques.
+
+2) why learn ML(machine learning)?
+-->
+- high demand, increased career prospects
+- it automates repetitive tasks
+- large volumes of data --> uncovers pattern --> gain insights --> informed decision making
+- forecasting future trends
+- applicable in many fields including healthcare, finance, entertainment, marketing, robotics, etc
+- it is a fundamental concept of AI
+
+Some applications of ML:
+1) Healthcare
+- medical imaging
+- drug discovery
+
+2) Finance
+- fraud detection
+- credit scoring
+
+3)Retail
+- Personalized recommendations
+- Demand Forecasting
+- Customer service
+
+4) Transportation
+- autonomous vehicles
+- route optimization
+- Traffic management
+
+5) Education
+- personalized learning
+
+6) Security
+- Threat Detection
+- surveillance
+
+3) What are the steps in ML or lifecycle of ML
+-->
+1) Gathering the data
+- this includes various sources like Kaggle(recommended), Amazon, Microsoft, UCI machine learning repository and even sklearn which is a library used in machine learning contains of datasets
+
+2) Understanding the data
+-->
+- make the data suitable for ML model
+- Handling missing data
+	- by deleting the row or column
+	- by calculating the mean, median or mode of the column and filling the null/missing values
+- Categorical data to numerical data
+	 - Label Encoder
+	 - Label Encode
+	 - get_dummies() function of pandas library
+- Feature Scaling
+	- to ensure features are in the same scale
+
+4) Model Selection
+-->
+- regression - when the model needs to predict continuous outcome
+- eg: house price prediction, Salary Prediction
+
+- classification - when the output is categorical, classes are included
+- eg:- true/false, yes/no, 0/1, play/don't play, etc
+
+
+5) Train and test the model
+--> 
+- it is necessary because once we build a model it is essential to know the accuracy of the model for its deployment 
+- so for better performance the model should be tested
+- the dataset can be divided into training and testing data
+- train data is used to create the model
+- test data is used to test the accuracy of the model
+
+6) Deploy the model
+-->
+- GUI(Graphical User Interface) - eg: using python tkinter library
+- CUI(Command Line Interface) - eg: python command line
+- Web Application - streamlit or host on cloud 
+
+ 
