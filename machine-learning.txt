@@ -79,6 +79,5 @@ Some applications of ML:
 - CUI(Command Line Interface) - eg: python command line
 - Web Application - streamlit or host on cloud 
 
-This repository is for beginners in Machine Learning. They can learn the basics of machine learning. This includes supervised and unsupervised machine learning algorithms.
 
  
