@@ -1,0 +1,33 @@
+Machine Learning Algorithms are classified into two types:
+1) Supervised Machine Learning 
+2) Unsupervised Machine Learning
+
+Supervised Machine Learning:
+- It is used for predicting the output.
+- input data(features) and output data(target/tag/label) is provided in input data.
+- Supervised learning algorithms are classified as follows:
+	- Regression
+	- Classification
+- algorithm includes:
+	- Linear Regression
+	- Multiple Linear Regression
+	- Polynomial Regression
+	- Logistic Regression
+	- Naive Bayes
+	- Decision Tree
+	- Random Forest
+	- K Nearest Neighbors
+etc
+
+
+Unsupervised Machine Learning:
+- It is used for finding hidden patterns.
+- only input data(features) are given to the model. 
+- Unsupervised leaning algorithms are classified as follows:
+	- Clustering
+	- Association
+
+- algorithms includes:
+	- K means clustering
+	- k medoids clustering
+etc
