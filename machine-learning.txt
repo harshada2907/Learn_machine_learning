@@ -79,6 +79,9 @@ Some applications of ML:
 - CUI(Command Line Interface) - eg: python command line
 - Web Application - streamlit or host on cloud 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> aecd1d1b89fc29b75b82b969887a66a400150df0
 
  
