@@ -1,0 +1,41 @@
+Regression Algorithm
+---------------------
+- analyze the relationship between variables
+- predicts a continuous output(numerical values) based on input features
+- understanding how the dependent variable changes with independent variable
+
+- used in problems like House Price Prediction, Weather Prediction, etc
+
+- here we try to find the best fit line that can predict the output more accurately
+
+- They are divided into:
+- Linear Regression
+- Non-linear Regression
+
+
+- Linear Regression includes:
+- Simple Linear Regression
+- Multiple Linear Regression
+
+- Non-linear Regression includes:
+- Polynomial Regression
+
+- Linear Regression
+-----------------------
+- how dependent variable is changing according to independent variable
+- predict price, salary, etc
+
+Types of linear relationship:
+- Positive Linear Relationship
+	- y increases as the value of x increases
+- Negative Linear Relationship
+	- y decreases as the value of x increases
+
+
+- Simple Linear Regression
+----------------------------
+- relationship between a dependent and a single independent variable
+- models the relationship between two variables
+- forecasting new observations
+
+
