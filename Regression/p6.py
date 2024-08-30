@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 
 root = Tk()
 root.title("Salary Predictor")
-root.geometry("700X600+50+50")
+root.geometry("700x600+50+50")
 f = ("Arial", 30, "bold")
 
 lab_header = Label(root, text = "Salary Predictor", font = f)
@@ -19,7 +19,7 @@ def find():
 		x_train, x_test, y_train, y_tets = train_test_split(feature, target)
 		model = LinearRegression()
 		model.fit(x_train, y_train)
-		exp = float(input("Enter the experience : "))
+		exp = float(ent_exp.get())
 		sal = model.predict([[exp]])
 		msg = "Salary = " + str(round(sal[0], 2)) + "K"
 		lab_sal.configure(text = msg)
