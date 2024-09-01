@@ -39,3 +39,17 @@ Types of linear relationship:
 - forecasting new observations
 
 
+
+
+For null values in a dataset
+------------------------------
+- if the dataset is large and the null values are less then in such a case the null values can be dropped
+- but if the dataset is small then the null values cannot be dropped as this will decrease the size of the dataset and then will not be able to train the model properly
+- so in such cases we can fill those null values
+- now these null values can be filled manually too but if the dataset is large then it will consume time and not worthy
+- so we can fill those values code.
+- now for filling those values there are 3 statistical methods
+- mean  median  mode
+ 
+
+
