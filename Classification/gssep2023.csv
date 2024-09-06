@@ -1,0 +1,11 @@
+DN,Weather,Car,Result
+1,sunny,working,go-out
+2,rainy,broken,go-out
+3,sunny,working,go-out
+4,sunny,working,go-out
+5,sunny,working,go-out
+6,rainy,broken,stay-home
+7,rainy,broken,stay-home
+8,sunny,working,stay-home
+9,sunny,broken,stay-home
+10,rainy,broken,stay-home

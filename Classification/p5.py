@@ -34,8 +34,8 @@ model.fit(feature, target)
 #print(info)
 
 #bi_info = round(info[0] * 100, 2)
-#ca_info = round(info[0] * 100, 2)
-#cy_info = round(info[0] * 100, 2)
+#ca_info = round(info[1] * 100, 2)
+#cy_info = round(info[2] * 100, 2)
 
 #print("Bike = ", bi_info)
 #print("car = ", ca_info)

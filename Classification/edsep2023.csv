@@ -1,0 +1,13 @@
+Mn,Dear,Friend,Lunch,Money,Result
+1,yes,yes,yes,yes,normal
+2,yes,yes,yes,no,normal
+3,yes,yes,yes,no,normal
+4,yes,yes,no,no,normal
+5,yes,yes,no,no,normal
+6,yes,no,no,no,normal
+7,yes,no,no,no,normal
+8,yes,no,no,no,normal
+9,no,no,no,yes,spam
+10,no,no,no,yes,spam
+11,yes,no,no,yes,spam
+12,yes,yes,no,yes,spam
