@@ -48,3 +48,14 @@ else:
 pur = model.predict(d)
 
 print("Purchased= ", pur[0])
+
+#internal working
+res = model.predict_proba(d)
+info = res.ravel().tolist()
+print(info)
+
+no = round(info[0] * 100, 2)
+yes = round(info[1] * 100, 2)
+
+print("Not Purchased = ", no)
+print("Purchased = ", yes)
